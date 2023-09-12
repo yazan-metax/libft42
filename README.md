@@ -11,3 +11,4 @@ by we creating our own library function we get to understand deeply how main fun
 
 in this project the header file is going to have "libft.h" name, so make sure to include it in the c files in this way #include "libft.h".
 
+### makefile

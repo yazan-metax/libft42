@@ -25,11 +25,16 @@ dont forget to make a Research about it for farther understanding of it.
 
 ## mandatory part:
 
-### functions from <ctype.h>
+### functions from `<ctype.h>`
 - [`ft_isalpha`](ft_isalpha.c) - checks for an alphabetical characters.
 - [`ft_isdigit`](ft_isdigit.c) - checks for digits (0-9).
 - [`ft_isalnum`](ft_isalnum.c) - checks for alphanumeric characters.
 - [`ft_isascii`](ft_isascii.c) - checks whether a specific character fits into the ASCİİ character set.
+- [`ft_isprint`](ft_isprint.c) - checks for any printable characters.
+- [`ft_toupper`](ft_toupper.c) - converts characters to uppercase.
+- [`ft_tolower`](ft_tolower.c) - converts characters to lowercase.
+
+### functions from `<string.h>`
 
 
 

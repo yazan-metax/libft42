@@ -18,5 +18,22 @@ in summary the makefile is going do:
 - compiling: it compiles all the files in our program at once.
 - cleaning:by running the "make clean" command, the make file will delete the object files, by running the "make fclean" command,the make file will delete the object files alongside the execuable file for our program.
 
-this some of the thingd thst the make file does , i will not be going to talk about it in detail,
+this some of the things that the make file does , i will not be going to talk about it in detail,
 dont forget to make a Research about it for farther understanding of it.
+
+# libft functions
+
+## mandatory part:
+
+
+
+
+
+
+
+
+
+
+
+
+

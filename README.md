@@ -47,7 +47,8 @@ dont forget to make a Research about it for farther understanding of it.
 - [`ft_strncmp`](ft_strncmp.c) - used for comparing two strings up to a specified number of characters. It returns an integer that indicates the relationship between the compared strings.
 - [`ft_memchr`](ft_memchr.c) - find a character in a block of memory.
 - [`ft_memcmp`](ft_memcmp.c) - it compares two memories areas up to a specified number of bytes.
-- [`ft_strnstr`](ft_strnstr.c) - 
+- [`ft_strnstr`](ft_strnstr.c) - it locates a substring in a specific string.
+- [`ft_strdup`](ft_strdup.c) - it duplicates a string passed as a parameter.
 
 
 

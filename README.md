@@ -50,6 +50,26 @@ dont forget to make a Research about it for farther understanding of it.
 - [`ft_strnstr`](ft_strnstr.c) - it locates a substring in a specific string.
 - [`ft_strdup`](ft_strdup.c) - it duplicates a string passed as a parameter.
 
+### functions from `<stdlib.h>`
+- [`ft_atoi`](ft_atoi.c) - convers a strings to integers.
+- [`ft_calloc`](ft_calloc.c) - allocates memories and set its bytes to 0.
+
+### functions are not included in the standard libraries.
+- [`ft_strjoin`](ft_strjoin.c) - The purpose of `ft_strjoin` is to concatenate two strings together, producing a new string.
+- [`ft_strtrim`](ft_strtrim.c) - it trims characters from the beginning and end of a string based on a provided set of characters.
+- [`ft_substr`](ft_substr.c) - it returns a substring from a string.
+- [`ft_split`](ft_split.c) - it splits a string according a character specified as a parameter.
+- [`ft_itoa`](ft_itoa.c) - it converts integers into strings.
+- [`ft_strmapi`](ft_strmapi.c) - applies a function to each character of a string.
+- [`ft_striteri`](ft_striteri.c) - iterates through each character in the string, applying a specified operation (provided as a function pointer `f`) along with its index.
+- [`ft_putchar_fd`](ft_putchar_fd.c) - it outputs a character to a specific file descriptor.
+- [`ft_putstr_fd`](ft_putstr_fd.c) - output a string to a file descriptor.
+- [`ft_putendl_fd`](ft_putendl_fd.c) - output a string to a file descriptor, followed by a new line.
+- [`ft_putnbr_fd`](ft_putnbr_fd.c) - output a number to a file descriptor.
+
+
+
+
 
 
 

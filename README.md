@@ -41,6 +41,13 @@ dont forget to make a Research about it for farther understanding of it.
 - [`ft_memcpy`](ft_memcpy.c) - is used to copy a block of memory from one location to another.
 - [`ft_memmove`](ft_memmove.c) - is used to copy a block of memory from one location to another, even if the source and destination regions overlap.
 - [`ft_strlcpy`](ft_strlcpy.c) - to copy string up to a specified size.
+- [`ft_strlcat`](ft_strlcat.c) - it conacatenate a string to another up to a specific size.
+- [`ft_strchr`](ft_strchr.c) - finds specific character in a string.
+- [`ft_strrchr`](ft_strrchr.c) - locates where a specific character is last seen.
+- [`ft_strncmp`](ft_strncmp.c) - used for comparing two strings up to a specified number of characters. It returns an integer that indicates the relationship between the compared strings.
+- [`ft_memchr`](ft_memchr.c) - find a character in a block of memory.
+- [`ft_memcmp`](ft_memcmp.c) - it compares two memories areas up to a specified number of bytes.
+- [`ft_strnstr`](ft_strnstr.c) - 
 
 
 

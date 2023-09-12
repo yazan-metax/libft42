@@ -8,5 +8,6 @@ by we creating our own library function we get to understand deeply how main fun
 ### .h (header file)
 - the header file is important to provide access to various functions from any file that the header is included in,that means we will not over write the function that we want to use in every file that doesn't include that specific function.
 - we can include all the headers that we will be using in our program in the .h file instead of including them in every file that our program has.
-in this project the header file is going to have "libft.h" name, so make sure to include it in the c files in this way
+
+in this project the header file is going to have "libft.h" name, so make sure to include it in the c files in this way #include "libft.h".
 

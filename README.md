@@ -35,7 +35,12 @@ dont forget to make a Research about it for farther understanding of it.
 - [`ft_tolower`](ft_tolower.c) - converts characters to lowercase.
 
 ### functions from `<string.h>`
-
+- [`ft_strlen`](ft_strlen.c) - calculate the length of a string.
+- [`ft_memset`](ft_memset.c) - fills memory with a constent part.
+- [`ft_bzero`](ft_bzero.c) - it zeros the bytes of a string.
+- [`ft_memcpy`](ft_memcpy.c) - is used to copy a block of memory from one location to another.
+- [`ft_memmove`](ft_memmove.c) - is used to copy a block of memory from one location to another, even if the source and destination regions overlap.
+- [`ft_strlcpy`](ft_strlcpy.c) - to copy string up to a specified size.
 
 
 

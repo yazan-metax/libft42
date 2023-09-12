@@ -26,7 +26,11 @@ dont forget to make a Research about it for farther understanding of it.
 ## mandatory part:
 
 ### functions from <ctype.h>
--[`ft_isalpha`](ft_isalpha.c) - checks for an alphabetical characters. 
+- [`ft_isalpha`](ft_isalpha.c) - checks for an alphabetical characters.
+- [`ft_isdigit`](ft_isdigit.c) - checks for digits (0-9).
+- [`ft_isalnum`](ft_isalnum.c) - checks for alphanumeric characters.
+- [`ft_isascii`](ft_isascii.c) - checks whether a specific character fits into the ASCİİ character set.
+
 
 
 

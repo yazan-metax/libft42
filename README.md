@@ -26,6 +26,7 @@ dont forget to make a Research about it for farther understanding of it.
 ## mandatory part:
 
 ### functions from <ctype.h>
+-[`ft_isalpha`](ft_isalpha.c) - checks for an alphabetical characters. 
 
 
 

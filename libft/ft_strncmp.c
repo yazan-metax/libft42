@@ -31,11 +31,11 @@ int	ft_strncmp(const char *str1, const char *str2, size_t n)
 	return (0);
 }
 
-int	main(void)
+/* int	main(void)
 {
 	char str1[100] = "abcd";
 	char str2[100] = "";
 
 	printf("here is the result:%d\n", ft_strncmp(str1, str2, ft_strlen(str1)));
 	return (0);
-}
+} */

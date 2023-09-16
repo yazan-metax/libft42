@@ -67,7 +67,7 @@ dont forget to make a Research about it for farther understanding of it.
 - [`ft_putendl_fd`](ft_putendl_fd.c) - output a string to a file descriptor, followed by a new line.
 - [`ft_putnbr_fd`](ft_putnbr_fd.c) - output a number to a file descriptor.
 
-# noten📝:
+# note📝:
 i added a tester for the libft project👌🏻, it can be so useful to test your code before submitting it to the school.
 
 

@@ -14,7 +14,7 @@ in this project the header file is going to have "libft.h" name, so make sure to
 ### makefile
 - A Makefile is a special file used in software development that contains a set of rules and dependencies to automate the build process of a program, ensuring that files are compiled in the correct order.
 
-in summary the makefile is going do:
+in summary the makefile is going to do:
 - compiling: it compiles all the files in our program at once.
 - cleaning:by running the "make clean" command, the make file will delete the object files, by running the "make fclean" command,the make file will delete the object files alongside the execuable file for our program.
 
